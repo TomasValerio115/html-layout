@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(221, 85, 255);
+    width: 100%; 
+    height: 10px;
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(84, 250, 84);
+    width: 100%;
+    height: 200px;
+}
+
+.main-content {
+    background-color: rgb(53, 121, 248);
+    width: 80%;
+    height: 65vh;
+    margin: 0 auto;
+}
+
+.footer {
+    background-color: rgb(84, 250, 84);
+    width: 80%;
+    height: 140px;
+    margin: auto;
+}
